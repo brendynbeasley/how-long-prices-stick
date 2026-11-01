@@ -1,0 +1,11 @@
+measure,value
+"Weighted mean months between price changes, CPI basket",7.934600000000002
+"Weighted median months between price changes, CPI basket",8.4
+Basket-average quarterly probability a price is unchanged (micro theta),0.588130056889785
+"Months implied by micro theta, 3/(1 - theta)",7.283852706865795
+Calvo slope implied by micro theta,0.2925529463300011
+Share of CPI weight in categories changing price at least every 4.3 months (%),29.90000000000001
+"Aggregate theta, GDP deflator, 1959Q1-2019Q4, L=0",0.9515095248961047
+"Months implied by aggregate theta, 1959Q1-2019Q4",61.867820300218284
+"Calvo slope implied by aggregate theta, 1959Q1-2019Q4",0.0029560583383435356
+Ratio of micro to aggregate Calvo slope,98.96724382440193

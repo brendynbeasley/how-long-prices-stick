@@ -1,0 +1,11 @@
+statistic,value,p_value
+categories in slope test,38.0,
+"Spearman rho, kappa_hat vs Calvo kappa",0.2566829208243009,0.11979461626168506
+"Spearman rho, kappa_hat vs months between changes",-0.2566829208243009,0.11979461626168506
+WLS slope of kappa_hat on log Calvo kappa,0.03928580336117698,0.07052399094717518
+WLS slope s.e. (HC1),0.02172250105234564,
+categories with kappa_hat > 0,14.0,
+flexible/sticky ratio of Calvo kappa (CPI-weighted),90.77496491075391,
+flexible/sticky ratio of estimated kappa,-19.63777002087658,
+flexible minus sticky estimated kappa,0.09753396765342462,0.25706318586946386
+flexible minus sticky s.e. (independence),0.086057373045487,

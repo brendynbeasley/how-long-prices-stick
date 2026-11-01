@@ -1,0 +1,46 @@
+category,group,months_between_changes,relative_importance,fred_series_id
+Motor fuel,flexible,0.7,3.2,CUSR0000SETB
+Car and truck rental,flexible,1.2,0.1,
+Fresh fruits and vegetables,flexible,1.3,0.9,CUSR0000SAF113
+Fuel oil and other fuels,flexible,1.5,0.3,CUSR0000SEHE
+Gas (piped) and electricity,flexible,1.6,4.2,CUSR0000SEHF
+"Meats, poultry, fish, and eggs",flexible,1.9,1.9,CUSR0000SAF112
+Used cars and trucks,flexible,2.0,1.6,CUSR0000SETA02
+Leased cars and trucks,flexible,2.0,0.6,
+New vehicles,flexible,2.0,4.5,CUSR0000SETA01
+Women's and girls' apparel,flexible,2.3,1.5,CUSR0000SAA2
+Dairy and related products,flexible,2.6,0.9,CUSR0000SEFJ
+Nonalcoholic beverages and beverage materials,flexible,2.7,1.0,CUSR0000SAF114
+Lodging away from home,flexible,3.1,2.5,CUSR0000SEHB
+Processed fruits and vegetables,flexible,3.2,0.3,
+Men's and boys' apparel,flexible,3.2,0.9,CUSR0000SAA1
+Cereals and bakery products,flexible,3.3,1.2,CUSR0000SAF111
+Footwear,flexible,3.4,0.7,CUSR0000SEAE
+Other food at home,flexible,3.6,2.0,CUSR0000SAF115
+Jewelry and watches,flexible,3.9,0.4,
+Motor vehicle parts and equipment,flexible,4.1,0.4,CUSR0000SETC
+Tobacco and smoking products,flexible,4.2,0.8,CUSR0000SEGA
+Infants' and toddlers' apparel,sticky,5.3,0.2,CUSR0000SEAF
+Household furnishings and operations,sticky,5.3,4.8,CUSR0000SAH3
+Motor vehicle maintenance and repair,sticky,5.8,1.2,CUSR0000SETD
+Motor vehicle insurance,sticky,5.9,2.0,
+Medical care commodities,sticky,6.2,1.6,CUSR0000SAM1
+Personal care products,sticky,6.7,0.7,CUUR0000SEGB
+Alcoholic beverages,sticky,7.3,1.1,CUSR0000SAF116
+Recreation,sticky,7.9,5.7,CPIRECSL
+Miscellaneous personal goods,sticky,8.1,0.2,
+Communication,sticky,8.4,3.2,CUSR0000SAE2
+Public transportation,sticky,9.4,1.1,CUSR0000SETG
+Tenants' and household insurance,sticky,10.1,0.3,CUUR0000SEHD
+Food away from home,sticky,10.7,6.5,CUSR0000SEFV
+Rent of primary residence,sticky,11.0,6.0,CUSR0000SEHA
+"OER, Northeast",sticky,11.0,5.3,CUUR0100SEHC01
+"OER, Midwest",sticky,11.0,4.5,CUUR0200SEHC01
+"OER, South",sticky,11.0,7.7,CUUR0300SEHC01
+"OER, West",sticky,11.0,6.9,CUUR0400SEHC01
+Education,sticky,11.1,3.1,CUSR0000SAE1
+Medical care services,sticky,14.0,4.8,CUSR0000SAM2
+"Water, sewer, and trash collection services",sticky,14.3,1.0,CUSR0000SEHG
+Motor vehicle fees,sticky,16.4,0.5,
+Personal care services,sticky,23.7,0.6,CUUR0000SEGC
+Miscellaneous personal services,sticky,25.9,1.1,CUSR0000SEGD

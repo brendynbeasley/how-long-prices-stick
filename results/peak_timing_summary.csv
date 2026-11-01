@@ -1,0 +1,6 @@
+statistic,value,p_value
+categories in timing test,38.0,
+"Spearman rho, peak quarter vs months between changes",0.6308379334763102,2.178985035773803e-05
+WLS quarters later per log-month of stickiness,1.897823828506287,5.298133723562482e-08
+WLS s.e. (HC1),0.3488003460472152,
+"implied delay, 2-month vs 11-month category (quarters)",3.235311551050717,
